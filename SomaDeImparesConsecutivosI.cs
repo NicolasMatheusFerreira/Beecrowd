@@ -9,22 +9,17 @@ class SomaDeImparesConsecutivosI {
 		y = int.Parse(Console.ReadLine());
 
 		if (x>y) {
-			for(int a = y + 1; a<x; a++) {
-				if (a%2==1)
-					if (a>0)
+			for(int a = y + 1; a<x; a++) {			
+				if (a%2!=0) {			
+					if (a>0) {
 						somaPositivos+=a;
-					else somaNegativos-=a;
+					} else {
+						somaNegativos-=a;
+					}
+				}
 			}
-		} else {
-			for(int a = x + 1; a<y; a++) {
-				if (a%2==1)
-					if (a>0)
-						somaPositivos+=a;
-					else somaNegativos-=a;
+			Console.WriteLine(somaPositivos-somaNegativos);
 
-			}
 		}
-		Console.WriteLine(somaPositivos);
-		Console.WriteLine(somaNegativos);
 	}
 }

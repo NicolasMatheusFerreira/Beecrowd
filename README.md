@@ -2,6 +2,7 @@
  
 Repositório destinado a desafios/exercícios, projetos e experiências.
 
+- Meu perfil no Beecrowd: https://www.beecrowd.com.br/judge/pt/profile/469945
 # Autor 
 
 Nicolas Matheus Ferreira

@@ -1,0 +1,16 @@
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.exe
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.deps.json
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.runtimeconfig.json
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.runtimeconfig.dev.json
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.dll
+C:\Users\nicol\desktop\Cedulas\bin\Debug\net5.0\Cedulas.pdb
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.csproj.AssemblyReference.cache
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.AssemblyInfoInputs.cache
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.AssemblyInfo.cs
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.dll
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\refint\Cedulas.dll
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.pdb
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\Cedulas.genruntimeconfig.cache
+C:\Users\nicol\desktop\Cedulas\obj\Debug\net5.0\ref\Cedulas.dll

@@ -1,0 +1,16 @@
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.csproj.AssemblyReference.cache
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.AssemblyInfoInputs.cache
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.AssemblyInfo.cs
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.exe
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.deps.json
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.runtimeconfig.json
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.runtimeconfig.dev.json
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.dll
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\bin\Debug\net5.0\DistanciaEntreDoisPontos.pdb
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.dll
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\refint\DistanciaEntreDoisPontos.dll
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.pdb
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\DistanciaEntreDoisPontos.genruntimeconfig.cache
+C:\Users\nicol\desktop\DistanciaEntreDoisPontos\obj\Debug\net5.0\ref\DistanciaEntreDoisPontos.dll

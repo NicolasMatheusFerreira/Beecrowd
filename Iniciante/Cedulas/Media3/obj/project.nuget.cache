@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u43xFcMX97s5gntJu5UTGumKRor6dGQQrWNePNMQQbQKELQTRBT65rvTYZznH5S9tsTHOl+q/ACq6vlmslLh5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\desktop\\Cedulas\\Media3\\Media3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
